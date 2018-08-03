@@ -6,7 +6,7 @@
 **[3. Who are you?](#who-are-you)**<br>
 **[4. What is the WeTransfer API?](#what-is-the-wetransfer-api)**<br>
 **[5. Upload flow](#upload-flow)**<br>
-**[6. New (?) concept: Multi Part Put uploads](#new-(?)-concept:-multi-part-put-uploads)**<br>
+**[6. New (?) concept: Multi Part Put uploads](#new-concept-multi-part-put-uploads)**<br>
 **[7. Thinking differently about files](#thinking-differently-about-files)**<br>
 **[8. So how do I get started?](#so-how-do-i-get-started)**<br>
 **[9. SDKs](#sdks)**<br>
