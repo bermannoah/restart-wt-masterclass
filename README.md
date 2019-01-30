@@ -16,7 +16,7 @@
 
 - Noah Berman (noah@wetransfer.com)
 - other details etc @ https://noahberman.org
-- work for https://wetransfer.com as a backend developer
+- work for https://wetransfer.com as a (security && backend) engineer
 - not a "traditional developer" - photographer/writer/filmmaker/customer service person, then went to https://turing.io
 
 ## Who are we?
@@ -101,11 +101,4 @@ We'll try to have a video chat with WeTransfer Product Manager && Product Design
 
 One way to get started quickly is to use some existing code! Hooray! Glitch.com is a really neat platform for collaborative coding. We've created a few sample apps on the service, including the transfer window below. Let's see what we can do!
 
-<div class="glitch-embed-wrap" style="height: 420px; width: 100%;">
-  <iframe
-    allow="geolocation; microphone; camera; midi; encrypted-media"
-    src="https://glitch.com/embed/#!/embed/transfer-example?path=server.js"
-    alt="transfer-example on Glitch"
-    style="height: 100%; width: 100%; border: 0;">
-  </iframe>
-</div>
+[Glitch Example Transfer](https://glitch.com/edit/#!/transfer-example)
